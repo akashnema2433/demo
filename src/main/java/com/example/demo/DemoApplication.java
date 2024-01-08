@@ -10,6 +10,7 @@ public class DemoApplication {
 	public void runImage(){
 		System.out.println("testing done...");
 		System.out.println("test1....");
+		System.out.println("test2....");
 	}
 
 	public static void main(String[] args) {
